@@ -58,10 +58,9 @@ Você pode executar o projeto localmente com os seguintes passos:
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/SEU-USUARIO/analise-vendas-python.git
+   git clone https://github.com/SamanthaCarrascoDev/analise-vendas-python.git
    ```
-   🔁 **TROCAR `SEU-USUARIO` pelo seu nome de usuário no GitHub**
-
+  
 2. Instale as dependências com:
    ```
    pip install pandas matplotlib seaborn
@@ -84,9 +83,6 @@ Você pode executar o projeto localmente com os seguintes passos:
 ## 📬 Contato
 
 Feito por **Samantha Carrasco**  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)  
-💡 **TROCAR `SEU-LINK-AQUI` pelo link do seu perfil no LinkedIn**
-
 💻 Em transição de carreira para a área de dados e tecnologia
 
 ---
